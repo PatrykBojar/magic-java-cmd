@@ -3,6 +3,9 @@ An enhanced command-line graphic interpreter.
 
 ## TODO
 * Implement a graphic interface
+* Method to grain and revoke permissions
+* Method to delete files in cascade
+* Show the number of XML node instances
 * <strike>Method to show XML tags</strike>
 * <strike>Method to copy files</strike>
 * <strike>Method to move files</strike>
